@@ -10,6 +10,7 @@ the host’s profitability while maintaining affordability to the users. With th
 understand what features of an Airbnb listing are most significant in determining the price.
 ## Data Source
 Open Data Soft Airbnb Dataset (+ web scraping): https://public.opendatasoft.com/explore/dataset/airbnb-listings/table/?disjunctive.host_verifications&disjunctive.amenities&disjunctive.features&refine.city=San+Francisco
+
 Areavibe Crime Data (web scraped): https://www.areavibes.com/san+francisco-ca/mission/livability/?ll=37.76009+-122.4145
 ## Important Features
 Host response time, number of bedrooms and bathrooms, and the listing’s cancellation policy
