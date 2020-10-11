@@ -1,5 +1,5 @@
 # Airbnb Price Prediction Project
-Authors: Jieun Hwang, Samir Hatem, Xiaorou Liang, Yejin (Emily) You
+Authors: Jieun Hwang, Samir Hatem, Xiaorou Liang, Yejin Emily You
 
 ## Introduction
 The purpose of this project is to explore various models for predicting Airbnb listing prices per night in San
